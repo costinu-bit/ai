@@ -1,5 +1,11 @@
 # @ai-sdk/google
 
+## 3.0.148
+
+### Patch Changes
+
+- 8a9bcc8: feat(google): add the `gemini-4-neon` model ID
+
 ## 3.0.147
 
 ### Patch Changes
